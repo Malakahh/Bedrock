@@ -1,0 +1,3 @@
+-- data.raw["simple-entity"]["rock-big"].autoplace = nil
+-- data.raw["simple-entity"]["rock-huge"].autoplace = nil
+-- data.raw["simple-entity"]["sand-rock-big"].autoplace = nil
